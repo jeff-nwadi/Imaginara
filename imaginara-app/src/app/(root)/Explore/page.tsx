@@ -9,7 +9,7 @@ export const metadata: Metadata = {
 function Explore() {
     return(
         <>
-            <h2>
+            <h2 className="text-white">
                 Explore
             </h2>
         </>
